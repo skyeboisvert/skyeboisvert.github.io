@@ -1,0 +1,30 @@
+body  {
+	background: #009900	
+;font-family: 'Baloo', cursive;
+}
+
+h1  {
+	font-size:48px;
+}
+
+img {
+	display: block;
+}
+
+#title {
+	background:red;
+	width:  600px;
+}
+
+#main  {
+	background:white;
+	width:   750px;
+}
+
+#main p{
+	color:005B2F;
+}
+
+#main p {
+	font-size: 20px;
+}
